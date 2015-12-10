@@ -10,3 +10,4 @@ script:
 notifications:
   email:
     - exampleone@org.com
+build_image: drydock/u14pytpls:prod
